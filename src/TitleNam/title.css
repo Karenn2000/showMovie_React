@@ -1,0 +1,29 @@
+.containerTitle {
+    margin-left: 7.5em;
+    color: white;
+    margin-top: 101px;
+    background: none;
+  }
+  
+
+.containerTitle img {
+    width: 400px;
+}
+
+.containerTitle p {
+    width:400px;
+}
+
+.movie {
+    font-size: 15px;
+}
+
+.times{
+    letter-spacing: +3px;
+}
+
+.trend{
+  margin-top: 150px;
+  font-weight: bold;
+  font-size: 20px;
+}

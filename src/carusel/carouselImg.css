@@ -1,0 +1,15 @@
+.container_carousel {
+  width: calc(100vw - 120px) !important;
+  position: absolute;
+  background-color: black;
+  padding-bottom: 1.4rem;
+  left: 70px; 
+  padding-right: 2.1rem;
+  margin-top: -20px;
+  padding-bottom: 0;
+}
+
+
+.titleCarousel {
+  cursor: pointer;
+}
